@@ -26,6 +26,7 @@
 
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Open-Whatsapp-Automate`](https://github.com/open-wa/wa-automate-nodejs)
+* ['Elaina Bot'](https://github.com/Mr-Paradox13/ElainaBOT)
 <a href="https://github.com/Mr-ParadoX13">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 </a>
