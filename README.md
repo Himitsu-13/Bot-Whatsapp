@@ -25,6 +25,6 @@
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-* [`OpenWhatsappAutomate`](https://github.com/open-wa/wa-automate-nodejs)
+* [`Open-Whatsapp-Automate`](https://github.com/open-wa/wa-automate-nodejs)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
