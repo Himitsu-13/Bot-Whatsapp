@@ -17,7 +17,6 @@
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`WhatsApp Admin `](https://wa.me/+6285895811075)
 * [`Group WhatsApp `](https://chat.whatsapp.com/I14rsPokjaq5gM6cWaSeHU)
 
