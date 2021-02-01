@@ -20,11 +20,12 @@
 * [`WhatsApp Admin `](https://wa.me/+6285895811075)
 * [`Group WhatsApp `](https://chat.whatsapp.com/I14rsPokjaq5gM6cWaSeHU)
 
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+## THANKS TO <a href="https://github.com/Mr-ParadoX13"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px"></a>
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Open-Whatsapp-Automate`](https://github.com/open-wa/wa-automate-nodejs)
-
+<a href="https://github.com/Mr-ParadoX13">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+</a>
