@@ -14,3 +14,16 @@
 <a href="https://github.com/Mr-ParadoX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mr-Paradox13/Bot-Whatsapp"></a>
 <a href="https://github.com/Mr-Paradox13/Bot-Whatsapp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mr-Paradox13/Bot-Whatsapp?label=Watchers&color=blue&style=flat-square"></a>
 </p>
+
+## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+
+* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
+* [`WhatsApp Admin `](https://wa.me/+6285895811075)
+* [`Group WhatsApp `](https://chat.whatsapp.com/I14rsPokjaq5gM6cWaSeHU)
+
+## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+
+* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
+
+* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
